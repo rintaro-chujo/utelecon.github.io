@@ -5,3 +5,4 @@ sass:
     sass_dir: _sass
 lang: ja
 title: utelecon
+repository: utelecon.github.io
